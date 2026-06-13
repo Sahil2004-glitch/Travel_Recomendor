@@ -1,0 +1,86 @@
+{
+  "places": [
+    {
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "description": "A spiritual city on the banks of the River Ganges, known for its sacred ghats and ancient temples. It is one of the oldest continuously inhabited cities in the world.",
+      "famous_attractions": [
+        "Kashi Vishwanath Temple",
+        "Dashashwamedh Ghat",
+        "Ganges River",
+        "Sarnath"
+      ],
+      "coordinates": {
+        "latitude": 25.3176,
+        "longitude": 82.9739
+      }
+    },
+    {
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "description": "The capital of Rajasthan, famously known as the 'Pink City'. It is renowned for its stunning forts, royal palaces, and vibrant markets.",
+      "famous_attractions": [
+        "Hawa Mahal",
+        "City Palace",
+        "Amber Fort",
+        "Jantar Mantar"
+      ],
+      "coordinates": {
+        "latitude": 26.9124,
+        "longitude": 75.7873
+      }
+    },
+    {
+      "name": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "description": "The capital city of India, a sprawling metropolis that blends historical Mughal-era landmarks with modern urban development.",
+      "famous_attractions": [
+        "India Gate",
+        "Qutub Minar",
+        "Humayun's Tomb",
+        "Red Fort",
+        "Lotus Temple"
+      ],
+      "coordinates": {
+        "latitude": 28.7041,
+        "longitude": 77.1025
+      }
+    },
+    {
+      "name": "Goa",
+      "state": "Goa",
+      "country": "India",
+      "description": "A state on the western coast of India, famous for its beautiful beaches, vibrant nightlife, Portuguese architecture, and laid-back atmosphere.",
+      "famous_attractions": [
+        "Baga Beach",
+        "Calangute Beach",
+        "Fort Aguada",
+        "Dudhsagar Falls",
+        "Old Goa Churches"
+      ],
+      "coordinates": {
+        "latitude": 15.2993,
+        "longitude": 74.1240
+      }
+    },
+    {
+      "name": "Manali",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "description": "A high-altitude resort town nestled in the Himalayas, popular for its stunning mountain views, adventure sports, and as a honeymoon destination.",
+      "famous_attractions": [
+        "Solang Valley",
+        "Rohtang Pass",
+        "Hadimba Devi Temple",
+        "Old Manali"
+      ],
+      "coordinates": {
+        "latitude": 32.2432,
+        "longitude": 77.1892
+      }
+    }
+  ]
+}
