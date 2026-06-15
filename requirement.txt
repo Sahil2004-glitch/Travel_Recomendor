@@ -8,3 +8,8 @@ langchain-community
 langchain_openai
 langgraph
 gunicorn
+streamlit
+networkx
+pandas
+numpy
+scikit-learn
