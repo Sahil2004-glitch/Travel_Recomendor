@@ -13,3 +13,4 @@ networkx
 pandas
 numpy
 scikit-learn
+networkx
